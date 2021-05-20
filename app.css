@@ -1,17 +1,17 @@
 .clear{
-    background-image: url(https:/source.unsplash.com/pbns0n5xt1o/)
+    background-image: url(/img/clear.jpeg)
 }
 
 .clouds{
-    background-image: url(https:/source.unsplash.com/8iZG31eXkks/)
+    background-image: url(/img/clouds.jpeg)
 }
 
 .rain{
-    background-image: url(https:/source.unsplash.com/ve-R7PCjJDk/)
+    background-image: url(/img/rain.jpeg)
 }
 
 .snow{
-    background-image: url(https:/source.unsplash.com/PzhmEp_aDU4/)
+    background-image: url(/img/snow.jpeg)
 }
 
 body{
